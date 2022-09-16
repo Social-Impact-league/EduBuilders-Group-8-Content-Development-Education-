@@ -42,34 +42,13 @@ Also, the Power BI Desktop is available for free in Microsoft Store for you to i
 
 After successfully installing the application, the startup screen would be like this.  
 
- 
-
- 
-
- 
- 
-
- 
+![alt text](https://github.com/AsiriSirithunga/Social-Impact-League-Project-/blob/main/Images/blog%204/Picture1.png)
 
 At this point, you can simply sign in with your school or work account. Please remember that it only works with a Microsoft account. You will not be able to sign-in with your Gmail, yahoo.  
 
 After signing into your account, you will get the screen below where you can see your recent reports. Then that is it.  
 
- 
- 
-
- 
-
- 
- 
-
- 
-
- 
-
- 
-
- 
+![alt text](https://github.com/AsiriSirithunga/Social-Impact-League-Project-/blob/main/Images/blog%204/Picture2.png)
 
 The installation is done. In this window you will find a few video tutorials in order to learn the basics that are recommended by the Power BI Desktop team. Obviously, you are free to follow any of these videos according to your preference.   
 
@@ -77,32 +56,16 @@ The installation is done. In this window you will find a few video tutorials in 
 
 After closing your startup window. You will see the interface below. 
 
+![alt text](https://github.com/AsiriSirithunga/Social-Impact-League-Project-/blob/main/Images/blog%204/Picture3.png)
 
 Basically, this is the user interface of the Power BI Desktop. It seems more familiar to you, if you are an office package user. It consists of report view, data view and model view. Each view has unique features.  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 #### Report view 
 
 In Power BI Desktop Report view, you can build visualizations and reports. The Report view has six main areas: 
 
- 
-
- 
- 
- 
+![alt text](https://github.com/AsiriSirithunga/Social-Impact-League-Project-/blob/main/Images/blog%204/Picture4.png)
 
 * The pages tab area at the bottom, which lets you select or add report pages. 
 
@@ -116,47 +79,20 @@ In Power BI Desktop Report view, you can build visualizations and reports. The R
 
 * The ribbon at the top displays common tasks associated with reports and visualizations. 
 
- 
-
- 
-
- 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 #### Data view 
 
- 
-
- 
+![alt text](https://github.com/AsiriSirithunga/Social-Impact-League-Project-/blob/main/Images/blog%204/Picture5.png)
 
 * The table pane, where you can see your data in table format. 
 
 * The Fields pane, which shows the available fields in your queries. 
 
- 
- 
 
- 
-
- 
-
- 
-
- 
-
- 
 
 #### Model View 
+
+![alt text](https://github.com/AsiriSirithunga/Social-Impact-League-Project-/blob/main/Images/blog%204/Picture6.png)
 
 * Model view shows all of the tables, columns, and relationships in your model. 
 * The properties pane, which allows you to change the field properties accordingly. 
