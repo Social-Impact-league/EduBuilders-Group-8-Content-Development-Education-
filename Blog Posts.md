@@ -65,7 +65,7 @@ Basically, this is the user interface of the Power BI Desktop. It seems more fam
 
 In Power BI Desktop Report view, you can build visualizations and reports. The Report view has six main areas: 
 
-![alt text](https://github.com/AsiriSirithunga/Social-Impact-League-Project-/blob/main/Images/blog%204/Picture4.png)
+![alt text](https://github.com/AsiriSirithunga/Social-Impact-League-Project-/blob/main/Images/blog%204/Picture4.jpg)
 
 * The pages tab area at the bottom, which lets you select or add report pages. 
 
@@ -82,7 +82,7 @@ In Power BI Desktop Report view, you can build visualizations and reports. The R
 
 #### Data view 
 
-![alt text](https://github.com/AsiriSirithunga/Social-Impact-League-Project-/blob/main/Images/blog%204/Picture5.png)
+![alt text](https://github.com/AsiriSirithunga/Social-Impact-League-Project-/blob/main/Images/blog%204/Picture5.jpg)
 
 * The table pane, where you can see your data in table format. 
 
@@ -92,7 +92,7 @@ In Power BI Desktop Report view, you can build visualizations and reports. The R
 
 #### Model View 
 
-![alt text](https://github.com/AsiriSirithunga/Social-Impact-League-Project-/blob/main/Images/blog%204/Picture6.png)
+![alt text](https://github.com/AsiriSirithunga/Social-Impact-League-Project-/blob/main/Images/blog%204/Picture6.jpg)
 
 * Model view shows all of the tables, columns, and relationships in your model. 
 * The properties pane, which allows you to change the field properties accordingly. 
