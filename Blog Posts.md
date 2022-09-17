@@ -159,13 +159,13 @@ In Power BI Desktop Report view, you can build visualizations and reports. The R
 
 ![alt text](https://github.com/Social-Impact-league/Social-Impact-League-Project-/blob/main/Images/Blog%205/SIL%20blog%205%208.png)
 
-1.The ribbon at the top, which displays common tasks associated with reports and visualizations.
-2.The canvas area in the middle, where you create and arrange visualizations.
-3.The pages tab area at the bottom, which lets you select or add report pages.
-4.The Filters pane, where you can filter data visualizations.
-5.The Visualizations pane, where you can add, change, or customize visualizations, and apply drill through.
-6.The Format pane, where you design the report and visualizations.
-7.The Fields pane shows the available fields in your queries. You can drag these fields onto the canvas, the Filters pane, or the Visualizations pane to create or modify visualizations.
+1. The ribbon at the top, which displays common tasks associated with reports and visualizations.
+2. The canvas area in the middle, where you create and arrange visualizations.
+3. The pages tab area at the bottom, which lets you select or add report pages.
+4. The Filters pane, where you can filter data visualizations.
+5. The Visualizations pane, where you can add, change, or customize visualizations, and apply drill through.
+6. The Format pane, where you design the report and visualizations.
+7. The Fields pane shows the available fields in your queries. You can drag these fields onto the canvas, the Filters pane, or the Visualizations pane to create or modify visualizations.
 
 You can expand and collapse the Filters, Visualizations, and Fields panes by selecting the arrows at the tops of the panes. Collapsing the panes provides more space on the canvas to build cool visualizations.
 
