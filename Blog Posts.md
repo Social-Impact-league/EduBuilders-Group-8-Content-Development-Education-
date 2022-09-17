@@ -124,7 +124,7 @@ On the Power BI Desktop Home tab, select Get Data > Web to connect to a web data
 
 ![alt text](https://github.com/Social-Impact-league/Social-Impact-League-Project-/blob/main/Images/Blog%205/SIL%20Blog%205%202%20image.png)
 
-In the From Web dialog box, paste the address    https://www.bankrate.com/retirement/best-and-worst-states-for-retirement/ into the URL field, and select OK.
+In the From Web dialog box, paste the address into the URL field, and select OK.
 
 ![alt text](https://github.com/Social-Impact-league/Social-Impact-League-Project-/blob/main/Images/Blog%205/SIL%20Blog%205%203.png)
 
