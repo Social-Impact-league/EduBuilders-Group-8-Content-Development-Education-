@@ -57,10 +57,12 @@ You must first understand the actual problem (s) you intend to solve and the rig
 
 # Step 2. 
 After identifying the problem (s) and knowing the right data to be used. Next step is to collect the data from a data source. PowerBI allows you to connect and collect data from different data sources, such as MYSQL, Excel, SharePoint etc. Most series of data have errors, are inconsistent, and also inaccurate, which leads us to step 3, which is data cleaning. 
+
 ![alt text](https://github.com/Franklin034/Social-Impact-League-Project-/blob/main/Images/Blog%203/blog3%203.png)
 
 # Step 3.
 Data cleaning enables us to process the collected data, in other to find errors, inconsistencies, and inaccuracies, in order to get rid of them and making sure our data becomes error free and consistency in other to make a reliable analysis. PowerBI has good and effective features that would enable you to clean your data without writing any single line of code.
+
 ![alt text](https://github.com/Franklin034/Social-Impact-League-Project-/blob/main/Images/Blog%203/blog3%204.png)
 
 # Step 4.
@@ -69,10 +71,12 @@ Now that our data is clean, the next step is to analyze the data to get meaningf
 
 # Step 5.
 In this step, you are required to visualize your analysis in an image form (graphs) to help anyone to understand the information of your analysis.  
+
 ![alt text](https://github.com/Franklin034/Social-Impact-League-Project-/blob/main/Images/Blog%203/blog3%205.png)
 
 # Step 6.
 This final step of this process is to make decisions with the insight you have gotten from the analysis.
+
 ![alt text](https://github.com/Franklin034/Social-Impact-League-Project-/blob/main/Images/Blog%203/blog3%206.jpg)
 
 # Conclusion 
