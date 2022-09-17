@@ -99,3 +99,21 @@ In Power BI Desktop Report view, you can build visualizations and reports. The R
 * The Fields pane, which shows the available fields in your queries. 
 
 With this blog we hope you understand the big picture of the user interface of Power BI Desktop tools. By going through the whole series, you will be able to create a report which solves a given analysis problem.  
+
+
+## BLOG 5 
+### How Power BI Desktop works
+With Power BI Desktop, we can: 
+
+Connect to data, including multiple data sources. 
+
+Shape the data with queries that build insightful, compelling data models. 
+
+Use data models to create visualizations and reports. 
+
+Share our report files for others to leverage, build upon, and share. We can share Power BI Desktop .pbix files like any other files, but the most compelling method is to upload them too the Power BI service. 
+
+Power BI Desktop integrates proven Microsoft query engine, data modelling, and visualization technologies. Data analysts and others can create collections of queries, data connections, models, and reports, and easily share them with others. Through the combination of Power BI Desktop and the Power BI service, new insights from the world of data are easier to model, build, share, and extend. 
+
+### Connect to data 
+With Power BI Desktop installed, we're ready to connect to the ever-expanding world of data. To see the many types of data sources available, select Get Data > More in the Power BI Desktop Home tab, and in the Get Data window, scroll through the list of All data sources. 
