@@ -17,7 +17,7 @@ Well, before we dive into that, let’s look at it individually.
 
 Data Analysis is a two-word term which are data and analysis.  
 
-* What is Data?   
+### What is Data?   
 
 Many people over the years have defined data in terms of their environment, job description, and circumstance, etc. During my secondary school days, they taught me that data is a series of raw facts or figures which have no meaning.   
 
@@ -27,7 +27,7 @@ But without this data being processed, it might not make any meaning to us.
 
 It is a known fact that data is not the same as information. However, we have seen situations where individuals used both words interchangeably.  
 
-* What is information? 
+### What is information? 
 
 Information is a processed data that carries meaning and can be used in making intelligent business decisions.   
 
@@ -37,7 +37,7 @@ This is where analysis comes in.
 
 Well, for us to get meaningful information from a series of data, the data must go through some processing or transformations.  
 
-* What is Analysis?  
+### What is Analysis?  
 
 Analysis helps us to carefully and adequately look into anything in other to understand its nature or to determine its essential features.  
 
@@ -53,6 +53,7 @@ However, you don’t just analyze any data just because it a data.
 
 * Step 1. 
 You must first understand the actual problem (s) you intend to solve and the right data that would enable you to solve such problem (s). 
+
 ![alt text](https://github.com/Franklin034/Social-Impact-League-Project-/blob/main/Images/Blog%203/blog3%202.jpg)
 
 * Step 2. 
