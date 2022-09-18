@@ -17,7 +17,7 @@ Well, before we dive into that, let’s look at it individually.
 
 Data Analysis is a two-word term which are data and analysis.  
 
-# 1. What is Data?   
+* What is Data?   
 
 Many people over the years have defined data in terms of their environment, job description, and circumstance, etc. During my secondary school days, they taught me that data is a series of raw facts or figures which have no meaning.   
 
@@ -27,7 +27,7 @@ But without this data being processed, it might not make any meaning to us.
 
 It is a known fact that data is not the same as information. However, we have seen situations where individuals used both words interchangeably.  
 
-# What is information? 
+* What is information? 
 
 Information is a processed data that carries meaning and can be used in making intelligent business decisions.   
 
@@ -37,13 +37,13 @@ This is where analysis comes in.
 
 Well, for us to get meaningful information from a series of data, the data must go through some processing or transformations.  
 
-# 1. What is Analysis?  
+* What is Analysis?  
 
 Analysis helps us to carefully and adequately look into anything in other to understand its nature or to determine its essential features.  
 
 Let us now join the two words. 
 
-# 3. Data Analysis  
+* Data Analysis  
 
 According to https://ori.hhs.gov/ Data Analysis is the process of systematically applying statistical and/or logical techniques to describe and illustrate, condense and recap, and evaluate data.  
 
@@ -51,35 +51,35 @@ However, you don’t just analyze any data just because it a data.
 
 # Data analysis follows some sequence of steps which I have listed below:  
 
-# Step 1. 
+Step 1. 
 You must first understand the actual problem (s) you intend to solve and the right data that would enable you to solve such problem (s). 
 ![alt text](https://github.com/Franklin034/Social-Impact-League-Project-/blob/main/Images/Blog%203/blog3%202.jpg)
 
-# Step 2. 
+Step 2. 
 After identifying the problem (s) and knowing the right data to be used. Next step is to collect the data from a data source. PowerBI allows you to connect and collect data from different data sources, such as MYSQL, Excel, SharePoint etc. Most series of data have errors, are inconsistent, and also inaccurate, which leads us to step 3, which is data cleaning. 
 
 ![alt text](https://github.com/Franklin034/Social-Impact-League-Project-/blob/main/Images/Blog%203/blog3%203.png)
 
-# Step 3.
+Step 3.
 Data cleaning enables us to process the collected data, in other to find errors, inconsistencies, and inaccuracies, in order to get rid of them and making sure our data becomes error free and consistency in other to make a reliable analysis. PowerBI has good and effective features that would enable you to clean your data without writing any single line of code.
 
 ![alt text](https://github.com/Franklin034/Social-Impact-League-Project-/blob/main/Images/Blog%203/blog3%204.png)
 
-# Step 4.
+Step 4.
 Now that our data is clean, the next step is to analyze the data to get meaningful information or insight. PowerBI also has reliable, efficient, and effective features that would help you analyze the data to find the relationships, trends, and patterns that will help you solve your problem accurately without actually writing any line of code or performing the mathematical aspect of data analysis. All you do is to click, drag and drop.
 
 
-# Step 5.
+Step 5.
 In this step, you are required to visualize your analysis in an image form (graphs) to help anyone to understand the information of your analysis.  
 
 ![alt text](https://github.com/Franklin034/Social-Impact-League-Project-/blob/main/Images/Blog%203/blog3%205.png)
 
-# Step 6.
+Step 6.
 This final step of this process is to make decisions with the insight you have gotten from the analysis.
 
 ![alt text](https://github.com/Franklin034/Social-Impact-League-Project-/blob/main/Images/Blog%203/blog3%206.jpg)
 
-# Conclusion 
+Conclusion 
 
 PowerBI has many tools and features which makes data analysis easy, faster, and efficient.
 
