@@ -1,1 +1,0 @@
-# Social-Impact-League-Project-
