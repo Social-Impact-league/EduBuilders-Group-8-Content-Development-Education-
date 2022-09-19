@@ -1,6 +1,87 @@
 # Blog Series
 
 ## Blog 1
+# Introduction to Machine Learning:
+
+Machine learning is the concept that generic algorithms can tell you something useful about a piece of data without requiring you to build any unique code relevant to the situation. Rather than creating code, you provide data to the generic algorithm, which then produces its own logic depending on the data.
+For Example:
+A classification algorithm, for example, is a type of algorithm. It has the ability to categorize data. Without modifying a line of code, the same classification method used to detect handwritten digits could be used to categorize emails as spam or not spam. It's the same algorithm, but because it's fed different training data, it generates different categorization reasoning.
+
+![alt text](https://github.com/EmanAmjad/Social-Impact-League-Project-/blob/main/Images/Blog%201/SIL%20B1%201.png)
+This machine learning algorithm is a black box that can be re-used for lots of different classification problems.
+
+# Types of Machine Learning:
+Classical machine learning is frequently classified by how an algorithm learns to improve its prediction accuracy. 
+There are four fundamental techniques for learning: 
+1.	Supervised learning
+2.	Unsupervised learning
+3.	Semi-supervised learning
+4.	Reinforcement learning.
+
+Let’s see how these algorithms work:
+
+
+![alt text](https://github.com/EmanAmjad/Social-Impact-League-Project-/blob/main/Images/Blog%201/SIL%20B1%202.png)
+
+# 1.	Supervised Learning:
+In this sort of machine learning, data scientists provide labeled training data to algorithms and specify the variables they want the program to look for connections between. The algorithm's input and output are both provided.
+
+![alt text](https://github.com/EmanAmjad/Social-Impact-League-Project-/blob/main/Images/Blog%201/SIL%20B1%203.png)
+
+The following tasks benefit from supervised learning algorithms:
+•	Binary classification: Binary classification is the division of data into two groups.
+•	Multi-class classification: Choosing between more than two categories of replies is referred to as multi-class categorization.
+•	Regression modeling: Predicting continuous values using regression modeling.
+•	Ensembling: Combining the predictions of numerous machine learning models to get an accurate forecast is known as assembling.
+
+# 2.	Unsupervised learning: 
+Algorithms that train on unlabeled data are used in this sort of machine learning. The program examines data sets for any noteworthy connections. The data used to train algorithms, as well as the predictions or suggestions they provide, are predefined.
+
+![alt text](https://github.com/EmanAmjad/Social-Impact-League-Project-/blob/main/Images/Blog%201/SIL%20B1%204.png)
+
+The following tasks are well suited to unsupervised learning algorithms:
+•	Clustering: It is the process of dividing a dataset into groups based on similarities.
+•	Anomaly detection: It is the discovery of unexpected data points in a data set.
+•	Association mining: It is the process of identifying groups of things in a data collection that commonly appear together.
+•	Dimensionality reduction: It refers to the process of reducing the number of variables in a data source.
+
+# 3.	Semi-supervised learning
+Semi-supervised learning is a hybrid of the two preceding methods of machine learning. Although data scientists may provide mainly labeled training data to an algorithm, the model is allowed to examine the data on its own and establish its own knowledge of the data set. Semi-supervised learning falls between the effectiveness of supervised learning and the efficiency of unsupervised learning.
+
+![alt text](https://github.com/EmanAmjad/Social-Impact-League-Project-/blob/main/Images/Blog%201/SIL%20B1%205.png)
+Semi-supervised learning is utilized in the following areas:
+•	Machine translation is the process of teaching computers to translate languages using less than a full lexicon of words.
+•	Fraud detection: Detecting cases of fraud when there are just a few positive examples.
+•	Data labeling: Algorithms trained on tiny data sets can learn to automatically apply data labels to bigger data sets.
+
+# 4.	Reinforcement learning:
+Reinforcement learning is often used by data scientists to teach a machine to execute a multi-step procedure with well-stated criteria. Data scientists build an algorithm to perform a task and provide it with positive or negative cues as it determines how to finish the job. However, for the most part, the algorithm selects what actions to take along the road.
+
+![alt text](https://github.com/EmanAmjad/Social-Impact-League-Project-/blob/main/Images/Blog%201/SIL%20B1%206.png)
+
+Reinforcement learning is frequently utilized in situations such as:
+•	Robotics: Using this technology, robots may learn to do tasks in the physical environment.
+•	Video gameplay: Reinforcement learning has been used to teach bots to play a variety of video games.
+•	Resource management: Given limited resources and a specific aim, reinforcement learning can assist businesses in determining how to distribute resources.
+
+# How does Machine Learning Model Work?
+Machine learning algorithms are molded on a training dataset to create a model. As new input data is introduced to the trained ML algorithm, it uses the developed model to make a prediction. Further, the prediction is checked for accuracy. Based on its accuracy, the ML algorithm is either deployed or trained repeatedly with an augmented training dataset until the desired accuracy is achieved.
+
+![alt text](https://github.com/EmanAmjad/Social-Impact-League-Project-/blob/main/Images/Blog%201/SIL%20B1%207.png)
+
+The above illustration discloses a high-level use case scenario. However, typical machine learning examples may involve many other factors, variables, and steps.
+
+# How to choose the right machine learning model:
+If not tackled deliberately, the process of selecting the best machine learning model to solve a problem can be time-consuming.
+Step 1: Align the problem with prospective data inputs for solution consideration. This phase needs the assistance of data scientists and specialists with in-depth knowledge of the problem.
+Step 2: Gather data, prepare it, and label it as needed. Typically, data scientists lead this process, with assistance from data wranglers.
+Step 3: Determine the algorithm(s) to utilize and assess their performance. Data scientists are generally in charge of this stage.
+Step 4: Continue to fine-tune the outputs until they are accurate enough. This process is often carried out by data scientists with input from professionals with in-depth knowledge of the topic.
+
+# Auto ML:
+The process of automating the tasks of applying machine learning to real-world issues is known as automated machine learning. Auto ML encompasses the whole workflow, from raw information to a deployable machine learning model. 
+Data scientists may use Automated Machine Learning (Auto ML) in Power BI for dataflows to train, validate, and deploy Machine Learning (ML) models within Power BI.
+If you are new to data science, this blog series will help you to start playing around with machine learning and learn how to use the Power BI desktop.
 
 ## Blog 2
 
