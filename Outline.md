@@ -14,10 +14,10 @@ Build reports
 Share work
 With this Outline, we hope you understand the big picture of Using the Power BI Desktop and by going through the whole series, you will be able to create a report which solves a given analysis problem.
 
-# About Machine Learning 
+### About Machine Learning 
 
 In this Blog Series we have studied about :
-# Machine Learning :
+### Machine Learning :
 Machine learning is the concept that generic algorithms can tell you something useful about a piece of data without requiring you to build any unique code relevant to the situation. Rather than creating code, you provide data to the generic algorithm, which then produces its own logic depending on the data.
-# Auto ML in Power BI : 
+### Auto ML in Power BI : 
 The process of automating the tasks of applying machine learning to real-world issues is known as automated machine learning. Auto ML encompasses the whole workflow, from raw information to a deployable machine learning model. Data scientists may use Automated Machine Learning (Auto ML) in Power BI for dataflows to train, validate, and deploy Machine Learning (ML) models within Power BI.
