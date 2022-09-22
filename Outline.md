@@ -1,23 +1,28 @@
-## PROJECT OUTLINE
-In this project , Our main concern is that sharing the knowledge with others. When sharing the knowledge with others in a simpler manner we have considered what are the needs of the community and their desires. To overcome all those identified challenges and desires we decided to move forward with the Data Science. 
-# Technical Overview 
-## About Power BI 
-Power BI Desktop is built for data analysts. So, the tool empowers others with its capacity of creating and publishing reports to Power BI. Power BI is a cloud-based set of corporate analytics tools that allows anybody to connect to, view, and analyze data more quickly, efficiently, and effectively. It provides dynamic reports and attractive visualizations that bring data to life by connecting to a wide range of live data through simple dashboards. In short, Power BI is a visualization and Business Intelligence (BI) tool from Microsoft, aimed at helping turn data into insights. In this Blog Series We have studied about the following points : 
-How To Use Power BI
-Common Terminologies of Power BI
-Practical Uses of Power BI
-Installation of Power BI 
-How Power BI Desktop works? 
-Connect to data
-Shape data
-Build reports 
-Share work
-With this Outline, we hope you understand the big picture of Using the Power BI Desktop and by going through the whole series, you will be able to create a report which solves a given analysis problem.
+# Project Outline
 
-### About Machine Learning 
+### Project Details
+Project Name: Social Impact League.
 
-In this Blog Series we have studied about :
-### Machine Learning :
-Machine learning is the concept that generic algorithms can tell you something useful about a piece of data without requiring you to build any unique code relevant to the situation. Rather than creating code, you provide data to the generic algorithm, which then produces its own logic depending on the data.
-### Auto ML in Power BI : 
-The process of automating the tasks of applying machine learning to real-world issues is known as automated machine learning. Auto ML encompasses the whole workflow, from raw information to a deployable machine learning model. Data scientists may use Automated Machine Learning (Auto ML) in Power BI for dataflows to train, validate, and deploy Machine Learning (ML) models within Power BI.
+Project Team Name: EduBuilders (Group 8 Content Development Education).
+
+### Project Description
+According to Business Wire, the future is low-code or no-code with an expected growth rate of 44.4% by 2022 to $27.23 billion (up from $4.32 billion in 2017).
+Our project is an educational social impact project which utilized the low code no code platform (Power Business Intelligence) to collect, clean, and analyze data.
+
+### Project Objective
+1. To introduce reader to Machine Learning.
+2. To introduce reader to Power Business Intelligence (BI).
+3. To introduce reader to Data Analysis.
+
+### Scope of Project
+Our Project covers:
+1. Machine Learning.
+2. Power Business Intelligence (BI).
+3. Data Analysis.
+4. Power BI Desktop.
+
+### Key Deliverables
+We were able to:
+1. Explained Machine Learning Concept.
+2. Explained Data Analysis Concept.
+3. Analyzed selected dataset using Power BI.
