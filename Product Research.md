@@ -3,7 +3,21 @@
 
 Study Title: Data Analysis Using Power BI
 
-Team Name: EduBuilders (Group 8 Content Development Education)
+Team Name: EduBuilders (Group 8 Content Development Education) . 
+
+Team Leads : Vasu Arora , Alinase Nyirenda
+
+Team Member List: Owagu Ugochukwu
+
+Asiri Sirithunga
+
+Humprey Muriungi
+
+Eman Amjad
+
+Shubham Samanta
+
+MedKhayri Allala
 
 ### Project Description
 
