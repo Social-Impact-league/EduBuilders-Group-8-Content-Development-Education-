@@ -192,51 +192,44 @@ Every firm relies on apps for its day-to-day operations, from accounting to sale
 
 ![alt text](https://github.com/Franklin034/Social-Impact-League-Project-/blob/main/Images/Blog%203/blog3%201.png)
 
-I know you might have come across this term Data Analysis before. Either through friends, family, online research, or maybe in lecture halls.  
-
-But what actually is data analysis?  
-
-Well, before we dive into that, let’s look at it individually. 
-
-Data Analysis is a two-word term which are data and analysis.  
+We know you might have come across this term Data Analysis before. Either through friends, family, online research, or maybe in lecture halls. 
+But what is data analysis? 
+Well, before we dive into that, let’s look at it individually.
+Data Analysis is a two-word term which is data and analysis. 
+ 
 
 # 1. What is Data?   
 
-Many people over the years have defined data in terms of their environment, job description, and circumstance, etc. During my secondary school days, they taught me that data is a series of raw facts or figures which have no meaning.   
-
-Data can be a person’s name, age, date of birth, home address, name of school, or even transaction details.  
-
-But without this data being processed, it might not make any meaning to us.  
-
-It is a known fact that data is not the same as information. However, we have seen situations where individuals used both words interchangeably.  
+Many people over the years have defined data in terms of their environment, job description, and circumstance, etc. During my secondary school days, they taught me that data is a series of raw facts or figures which have no meaning.  
+Data can be a person’s name, age, date of birth, home address, name of school, or even transaction details. 
+But without this data being processed, it might not make any meaning to us. 
+It is a known fact that data is not the same as information. However, we have seen situations where individuals used both words interchangeably. 
 
 # What is information? 
 
-Information is a processed data that carries meaning and can be used in making intelligent business decisions.   
-
-But, how can we get information from data?  
-
-This is where analysis comes in.  
-
-Well, for us to get meaningful information from a series of data, the data must go through some processing or transformations.  
+Information is processed data that carries meaning and can be used in making intelligent business decisions.  
+But how can we get information from data? 
+This is where analysis comes in. 
+Well, for us to get meaningful information from a series of data, the data must go through some processing or transformation.
+  
 
 # 1. What is Analysis?  
 
-Analysis helps us to carefully and adequately look into anything in other to understand its nature or to determine its essential features.  
+Analysis helps us to carefully and adequately investigate anything in other to understand its nature or to determine its essential features. 
 
-Let us now join the two words. 
+Now Let's join the two words.
+
 
 # 3. Data Analysis  
 
-According to https://ori.hhs.gov/ Data Analysis is the process of systematically applying statistical and/or logical techniques to describe and illustrate, condense and recap, and evaluate data.  
-
-However, you don’t just analyze any data just because it a data.   
-
+According to https://ori.hhs.gov/ Data Analysis is the process of systematically applying statistical and/or logical techniques to describe and illustrate, condense and recap, and evaluate data. 
+However, you don’t just analyze any data just because it a data.  
+  
 # Data analysis follows some sequence of steps which I have listed below:  
 
 # Step 1. 
 You must first understand the actual problem (s) you intend to solve and the right data that would enable you to solve such problem (s). 
-![alt text](https://github.com/Franklin034/Social-Impact-League-Project-/blob/main/Images/Blog%203/blog3%202.jpg)
+
 
 # Step 2. 
 After identifying the problem (s) and knowing the right data to be used. Next step is to collect the data from a data source. PowerBI allows you to connect and collect data from different data sources, such as MYSQL, Excel, SharePoint etc. Most series of data have errors, are inconsistent, and also inaccurate, which leads us to step 3, which is data cleaning. 
@@ -260,7 +253,6 @@ In this step, you are required to visualize your analysis in an image form (grap
 # Step 6.
 This final step of this process is to make decisions with the insight you have gotten from the analysis.
 
-![alt text](https://github.com/Franklin034/Social-Impact-League-Project-/blob/main/Images/Blog%203/blog3%206.jpg)
 
 # Conclusion 
 
