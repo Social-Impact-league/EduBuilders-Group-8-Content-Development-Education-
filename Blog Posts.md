@@ -237,8 +237,6 @@ However, you don’t just analyze any data just because it a data.
 * Step 1. 
 You must first understand the actual problem (s) you intend to solve and the right data that would enable you to solve such problem (s). 
 
-![alt text](https://github.com/Franklin034/Social-Impact-League-Project-/blob/main/Images/Blog%203/blog3%202.jpg)
-
 * Step 2. 
 After identifying the problem (s) and knowing the right data to be used. Next step is to collect the data from a data source. PowerBI allows you to connect and collect data from different data sources, such as MYSQL, Excel, SharePoint etc. Most series of data have errors, are inconsistent, and also inaccurate, which leads us to step 3, which is data cleaning. 
 
@@ -260,8 +258,6 @@ In this step, you are required to visualize your analysis in an image form (grap
 
 * Step 6.
 This final step of this process is to make decisions with the insight you have gotten from the analysis.
-
-![alt text](https://github.com/Franklin034/Social-Impact-League-Project-/blob/main/Images/Blog%203/blog3%206.jpg)
 
 * Conclusion 
 
