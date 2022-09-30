@@ -1,7 +1,7 @@
 # Project Details
 
 
-Study Title: Data Analysis Using Power BI
+Study Title: Building Reports with Machine Learning and Power BI
 
 Team Name: EduBuilders (Group 8 Content Development Education) . 
 
