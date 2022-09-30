@@ -15,9 +15,6 @@ Humprey Muriungi
 
 Eman Amjad
 
-Shubham Samanta
-
-MedKhayri Allala
 
 ### Project Description
 According to Business Wire, the future is low-code or no-code with an expected growth rate of 44.4% by 2022 to $27.23 billion (up from $4.32 billion in 2017).
