@@ -7,17 +7,15 @@ Team Name: EduBuilders (Group 8 Content Development Education)
 
 Team Leads : Vasu Arora , Alinase Nyirenda
 
-Team Member List: Owagu Ugochukwu
+Team Member List: 
 
-Asiri Sirithunga
+1. Eman Amjad
 
-Humprey Muriungi
+2. Owagu Ugochukwu
 
-Eman Amjad
+3. Asiri Sirithunga
 
-Shubham Samanta
-
-MedKhayri Allala
+4. Humprey Muriungi
 
 ### Project Description
 
