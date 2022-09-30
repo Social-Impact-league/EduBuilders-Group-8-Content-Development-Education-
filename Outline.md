@@ -1,9 +1,9 @@
 # Project Outline
 
 ### Project Details
-Project Name: Social Impact League.
+Project Name: Building Reports with Machine Learning and Power BI
 
-Project Team Name: EduBuilders (Group 8 Content Development Education).
+Project Team Name: EduBuilders (Group 8 Content Development Education)
 
 Team Leads :  Vasu Arora , Alinase Nyirenda
 
