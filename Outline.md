@@ -21,7 +21,8 @@ MedKhayri Allala
 
 ### Project Description
 According to Business Wire, the future is low-code or no-code with an expected growth rate of 44.4% by 2022 to $27.23 billion (up from $4.32 billion in 2017).
-Our project is an educational social impact project which utilized the low code no code platform (Power Business Intelligence) to collect, clean, and analyze data.
+Our project is an educational social impact project which utilized the low code no code platform (Power Business Intelligence) to collect, clean, and analyze data. The blog Series consists of 5 blog posts : 
+
 
 ### Project Objective
 1. To introduce reader to Machine Learning.
