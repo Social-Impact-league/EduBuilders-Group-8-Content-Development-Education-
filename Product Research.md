@@ -3,7 +3,7 @@
 
 Study Title: Building Reports with Machine Learning and Power BI
 
-Team Name: EduBuilders (Group 8 Content Development Education) . 
+Team Name: EduBuilders (Group 8 Content Development Education)
 
 Team Leads : Vasu Arora , Alinase Nyirenda
 
